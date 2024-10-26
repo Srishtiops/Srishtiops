@@ -1,3 +1,4 @@
+[![An image of @srishtiops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srishtiops)](https://holopin.io/@srishtiops)
 <h1 align="center">Hi 👋, I'm Srishti Ray</h1>
 <h3 align="center">Aspiring to be an entrepreneur in tech field.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif")
